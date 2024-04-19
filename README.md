@@ -1,1 +1,1 @@
-## This project was done by Fadil (PES1UG22CS203) and Hashir(PES1UG22CS236)
+### run code in terminal using `run main.go`. checks if website is down or running
